@@ -5,12 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86328a48-3a41-483d-8e2b-fd57f5cf0448" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/DriverManager/DriverProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/DriverManager/DriverProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/BrandsCategoryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/BrandsCategoryMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/CheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/CheckoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/MenCategoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/PageObject/MenCategoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/voila/Utilities/ConfigFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/voila/Utilities/ConfigFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/browser.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/browser.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/customUtil/CustomTestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/customUtil/CustomTestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/AddProductToShoppingBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/AddProductToShoppingBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/CheckoutSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/CheckoutSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/PageNavigationSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/PageNavigationSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/SearchAndFilterItemSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/SearchAndFilterItemSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/ShoppingBagSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ShoppingBagSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunner/CheckoutRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunner/CheckoutRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunner/LoginRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunner/LoginRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/checkout.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/checkout.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,10 +60,37 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Asus/RizkiAutomation/VoilaUIAutomation/TestNGRunner.xml.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="C:/Users/Asus/RizkiAutomation/VoilaUIAutomation/TestNGRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VoilaUIAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Asus/RizkiAutomation/VoilaUIAutomation/TestNGRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
